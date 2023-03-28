@@ -1,0 +1,2 @@
+# Latihan
+Ini adalah latihan
