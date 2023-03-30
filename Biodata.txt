@@ -1,0 +1,9 @@
+<html>
+<head>
+    <title> Biodata</title>
+</head>
+<body>
+    Nama : Mohammed Rezky Ichwan
+    Asal : Bandung
+</body>
+</html>
