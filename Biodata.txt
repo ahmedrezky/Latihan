@@ -4,6 +4,5 @@
 </head>
 <body>
     Nama : Mohammed Rezky Ichwan
-    Asal : Bandung
 </body>
 </html>
